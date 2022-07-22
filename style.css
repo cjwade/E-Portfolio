@@ -12,7 +12,7 @@ html {
 }
 
 li {
-list-style-type: none;
+    list-style-type: none;
 }
 
 p {
@@ -114,7 +114,6 @@ input:focus, textarea:focus {
     width: 0;
     right: 0;
     transition: all 300ms ease;
-
 }
 
 .link__hover-effect--white::after {
